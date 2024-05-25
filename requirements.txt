@@ -1,0 +1,5 @@
+beautifulsoup4
+bibtexparser==1.4.1
+requests
+thefuzz
+tqdm
